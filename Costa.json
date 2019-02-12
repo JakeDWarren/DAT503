@@ -1,0 +1,299 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "51 – 53",
+            "short_name" : "51 – 53",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "New George Street",
+            "short_name" : "New George St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Plymouth",
+            "short_name" : "Plymouth",
+            "types" : [ "postal_town" ]
+         },
+         {
+            "long_name" : "Plymouth",
+            "short_name" : "Plymouth",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "England",
+            "short_name" : "England",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United Kingdom",
+            "short_name" : "GB",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "PL1 1RJ",
+            "short_name" : "PL1 1RJ",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e51 – 53 New George St\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePlymouth\u003c/span\u003e \u003cspan class=\"postal-code\"\u003ePL1 1RJ\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUK\u003c/span\u003e",
+      "formatted_address" : "51 – 53 New George St, Plymouth PL1 1RJ, UK",
+      "formatted_phone_number" : "01752 251952",
+      "geometry" : {
+         "location" : {
+            "lat" : 50.3712112,
+            "lng" : -4.1428984
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 50.3726635302915,
+               "lng" : -4.141555419708498
+            },
+            "southwest" : {
+               "lat" : 50.3699655697085,
+               "lng" : -4.144253380291502
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id" : "09d74e7e75ab42d007391e0943e18e4adc3bc3c9",
+      "international_phone_number" : "+44 1752 251952",
+      "name" : "Costa Coffee",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 7:00 pm",
+            "Tuesday: 7:00 am – 7:00 pm",
+            "Wednesday: 7:00 am – 7:00 pm",
+            "Thursday: 7:00 am – 7:00 pm",
+            "Friday: 7:00 am – 7:00 pm",
+            "Saturday: 7:00 am – 7:00 pm",
+            "Sunday: 8:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100626250448803783275/photos\"\u003eLocal Boy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAgE8AsT6GHZLDvL5Fymy-JoMtDLXih13DwgnxttukrusAce8akLOmASykFuds83ZxdoF-Bc4C5BJKh8Lrk1rKQlCN3v99yp6PKwg-dVD1CmQ0aVVDwFZ_VFiPoYHumKQyEhC5FLvVLGfxnU5xp2NCaep6GhQvvLZ49PKAOUJXrqERUo7eA6Hupw",
+            "width" : 4128
+         },
+         {
+            "height" : 1960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111284069903928546685/photos\"\u003eAngel Garbutt\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAqRpwGE7_uNM24qaLaQKyhg1ELjszmTwnQfDmsXXeTv_jYfA0QszXoHYKMIA99chI6VbVRPf50I-qW92rgi6EkGWQugFgp76C_YX71MOuq8erHZZ2OitTooYMXCqgKqfCEhAIkwuw9JaKP9BwRSP-JBBnGhTbF6keqbrMDBrLa4M5LXcBLXDc-g",
+            "width" : 4032
+         },
+         {
+            "height" : 4128,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100626250448803783275/photos\"\u003eLocal Boy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA4XNph7NdLeua7Xu10wUmvWfhv_uJnJB6aQqdfXylHTx-Es7pR2rjXhsxPLPsJ0fJuJ2Xpmsxs5m2SlVWcdCNlFTKvGUIATxEUBWOlJ896Ms6gpiyKQes5O6dbkqjnBc8EhCR3MHjhXVdhWZicPMu2AJFGhSnMXwRrq8ocdKIs_MsCWSaS0AMMA",
+            "width" : 2322
+         },
+         {
+            "height" : 3096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100626250448803783275/photos\"\u003eLocal Boy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAI_B5HsMbmeQoSfXDxBcmvj6tWTb90KmRYOmPRW0YCN3CMU57ySdQd7n3OLfKKK2rRB4xO5wc0_y7clhDlSN4qbKyzn4vaYB4Jjpr3GhUIBbGnmhELomv0xJRsMb2hXE1EhDw-U5c2LMaoxgY3qdO0kZrGhSvCXNSBSqFuP0O4mmWntSONmwfkA",
+            "width" : 4128
+         },
+         {
+            "height" : 3096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100626250448803783275/photos\"\u003eLocal Boy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAsvK4VskITv04KPcbzFutHlYB09FVE4lW7Ax5NuB-tMHdmhbAQot_HpRyJgzKtMMboxZiCYJ-dVoCz6iXRDuOmYHBnOeo_b-enP5KWfdzUv4IMoVTMjd0qb36SWd-mZJxEhDPGUpQtmBRNBKPhfIxm0bwGhTzRWA45efGImCI3Xvd3gGz6JfLdg",
+            "width" : 4128
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104067322559977742784/photos\"\u003eTrent Archer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAVy25MX7un7K1W3ootYJkeUNS5smjAGOMspj81q2hHbAPi9fQ1jDsAfeE7SYcRkNtEFM-ICxawb3XFhmwLC-HQ1j1EdnoXA2NpHsvR1-XjWjDoqikLlUmkUR2SnXBb8Q3EhDN0WH2O3_q8TWBuRYATVWaGhSurQatvJMoSBhcmz9a0v_i6PnU6Q",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107936154587739267367/photos\"\u003eClare Godfrey\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAan4cKfMb2et9RkPG5AuBBN0JtiEq9jF2CmNutoTCQhcarYg_nE_z4pcmFpefFUOaWl5XYv32GbGhogNZZQLs6aGmAOj4ox93uY_fsYPPp96HaWSL3rIEKf1m9fnudzc1EhC6FNpiLMDhmUwOYjBW0I8jGhSJ7Tlyr_UwbtPAtutVlg9pM1CHQA",
+            "width" : 3024
+         },
+         {
+            "height" : 3096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100626250448803783275/photos\"\u003eLocal Boy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAkvs9CSKcHz2fT5zt0F6z8uK12qx7sAkPwBfo_0hn9JO_pmoLEbobJ-EmYnCOGnuEwufRXgW2t0xbNem1itUYtlGLdCvaCLktiq3zoUfvj_ijyd0-GtiF486SpepBccqhEhBMhLuiBsdr7X0PTQn_6insGhTlH1OlxOLGsP8gIlGGsQt2zHSQQQ",
+            "width" : 4128
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111393626496264601484/photos\"\u003eMark Weller\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAGBoNX_De_WGElQscrCx0O-16lBFzI2-ru3xHUZ9QuP-QOFD5gtHwJTryVhUNlSI33Oz4E7g5Yx-QQ_v827pRvLCxKCgrPPghmuTinQAaPs3O34aJHhtq9xYL2BTwyvbPEhB_ubljjiwVBhlxQqRCCR18GhT94hISKW5BHy2eTyVFl9WkFYg_1w",
+            "width" : 2448
+         },
+         {
+            "height" : 3096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100626250448803783275/photos\"\u003eLocal Boy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA2MJZH3QJMhkoTPxgRY5kgiQLBpz8jaybLRBygGePjU_DPz_IzRmETxMS3OzsT1k2xykF8sXOmgnbG5FqCddKo_QqDD_iRWXFFEMnnijk_3AadidhZE0fQVqnXxQIkXXPEhCeRrlyeR0v3SFsTfrsoZHdGhSB7pa-hPROZEb8AeaAn8YcUdkQjQ",
+            "width" : 4128
+         }
+      ],
+      "place_id" : "ChIJYQmSI0yTbEgRSxmPatvssbM",
+      "plus_code" : {
+         "compound_code" : "9VC4+FR Plymouth, United Kingdom",
+         "global_code" : "9C2Q9VC4+FR"
+      },
+      "price_level" : 2,
+      "rating" : 4.1,
+      "reference" : "ChIJYQmSI0yTbEgRSxmPatvssbM",
+      "reviews" : [
+         {
+            "author_name" : "Sue Birch",
+            "author_url" : "https://www.google.com/maps/contrib/105565139253031232107/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-WUDxpLJTZrc/AAAAAAAAAAI/AAAAAAAAANE/2l3u0xP53N0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "a month ago",
+            "text" : "Good cafe with plenty of seating,  and room to manoeuvre around tables etc. which can be rare in some Costa coffee shops. As always,  there's usually a long queue of people lined up to order, but it moves fairly quickly and is worth the wait. The speciality coffees are amazing, especially the gingerbread latte!",
+            "time" : 1544979413
+         },
+         {
+            "author_name" : "sar pal",
+            "author_url" : "https://www.google.com/maps/contrib/106820805527408126737/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-TQkLG5d5A3o/AAAAAAAAAAI/AAAAAAAADAU/42dAB6zu0VM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "2 months ago",
+            "text" : "Warm cafe, handy spot in the town centre. Good choice of hot beverages and cakes. Comfy seating. Child friendly but could do with a small play corner to keep them buzy when mum and dad relax with a refresh.",
+            "time" : 1544477040
+         },
+         {
+            "author_name" : "luke savage",
+            "author_url" : "https://www.google.com/maps/contrib/105180579565200177456/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-pm1PWTCPUCc/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQNSUeFJogs1c6AmaLa0zXeVZ9SPtw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "in the last week",
+            "text" : "Coffee was nice a bit over priced as it was 360 for a medium hazelnut latte, service was quick and the staff were really friendly, seating is well laid out and comfortable. Just be aware that during peak times it can become very busy due to the location.",
+            "time" : 1549451874
+         },
+         {
+            "author_name" : "Stephen Lloyd",
+            "author_url" : "https://www.google.com/maps/contrib/109661668871767348554/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-6ka5Il_0kCY/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQOzNXe-EU0tW5J3zt4sslVJao5y4Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "in the last week",
+            "text" : "This is my favourite coffee shop great staff clean and very relaxing.",
+            "time" : 1549731694
+         },
+         {
+            "author_name" : "Steve Marshall",
+            "author_url" : "https://www.google.com/maps/contrib/116057259101948014554/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-Gc5w8s6bly4/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQNVperPAxOFX3lyehET5v-6shFBvA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "It's Costa doing what Costa are good at, sometimes you just need 30 minutes to relax and have a coffee and here is where you can achieve that.",
+            "time" : 1545207529
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "cafe", "store", "point_of_interest", "food", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12948390830796642635",
+      "user_ratings_total" : 328,
+      "utc_offset" : 0,
+      "vicinity" : "51 – 53 New George Street, Plymouth",
+      "website" : "https://www.costa.co.uk/"
+   },
+   "status" : "OK"
+}
